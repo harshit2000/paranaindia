@@ -1,8 +1,8 @@
 /********** Template CSS **********/
 :root {
-    --primary: #B78D65;
-    --light: #F8F8F8;
-    --dark: #252525;
+    --primary: teal;
+    --light: #66b2b2;
+    --dark: teal;
 }
 
 h1,
@@ -64,13 +64,11 @@ h6,
     color: #FFFFFF;
 }
 
-.parana-text{
-    color: blue;
-}
+
 
 .me-3 {
-    width: 60px;
-    height: 60px;
+    width: 400px;
+    height: 90px;
     position: relative;
 }
 
@@ -101,7 +99,7 @@ h6,
 
 .btn-outline-body {
     color: var(--primary);
-    border-color: #777777;
+    border-color: teal;
 }
 
 .btn-outline-body:hover {
